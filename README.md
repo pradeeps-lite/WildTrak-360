@@ -46,7 +46,8 @@ Copy code
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/<your-username>/wildtrak-ai-coexist.git
+
+   git clone https://github.com/pradeeps-lite/WildTrak-360.git
    cd wildtrak-ai-coexist
 Install dependencies (if any)
 
