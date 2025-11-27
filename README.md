@@ -104,6 +104,7 @@ Data logging & analytics (history of detections, hotspot analysis)
 
 You can access the live version here:
 https://wildtrak-ai-coexist.lovable.app/
+Cam detection : https://beastbeacon-web.lovable.app
 
 📄 License & Credits
 
